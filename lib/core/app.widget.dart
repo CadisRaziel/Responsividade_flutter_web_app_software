@@ -1,6 +1,6 @@
 import 'package:device_preview/device_preview.dart';
 import 'package:flutter/material.dart';
-import 'package:nome_projeto/conceitos_basicos/expand.dart';
+import 'package:nome_projeto/02_conceitos_basicos/expand.dart';
 // import 'package:nome_projeto/Page/media_query.dart';
 
 class MyApp extends StatelessWidget {
