@@ -17,7 +17,7 @@ void main() {
     DevicePreview(
       builder: (context) => MyApp(),
       //?para ativar e desativar o device preview
-      enabled: false,
+      enabled: true,
     ),
   );
 }
